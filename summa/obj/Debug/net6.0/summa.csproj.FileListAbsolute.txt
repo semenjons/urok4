@@ -1,0 +1,15 @@
+C:\УЧЕБА\ДЗ\urok4\summa\obj\Debug\net6.0\summa.csproj.AssemblyReference.cache
+C:\УЧЕБА\ДЗ\urok4\summa\obj\Debug\net6.0\summa.GeneratedMSBuildEditorConfig.editorconfig
+C:\УЧЕБА\ДЗ\urok4\summa\obj\Debug\net6.0\summa.AssemblyInfoInputs.cache
+C:\УЧЕБА\ДЗ\urok4\summa\obj\Debug\net6.0\summa.AssemblyInfo.cs
+C:\УЧЕБА\ДЗ\urok4\summa\obj\Debug\net6.0\summa.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\ДЗ\urok4\summa\bin\Debug\net6.0\summa.exe
+C:\УЧЕБА\ДЗ\urok4\summa\bin\Debug\net6.0\summa.deps.json
+C:\УЧЕБА\ДЗ\urok4\summa\bin\Debug\net6.0\summa.runtimeconfig.json
+C:\УЧЕБА\ДЗ\urok4\summa\bin\Debug\net6.0\summa.dll
+C:\УЧЕБА\ДЗ\urok4\summa\bin\Debug\net6.0\summa.pdb
+C:\УЧЕБА\ДЗ\urok4\summa\obj\Debug\net6.0\summa.dll
+C:\УЧЕБА\ДЗ\urok4\summa\obj\Debug\net6.0\refint\summa.dll
+C:\УЧЕБА\ДЗ\urok4\summa\obj\Debug\net6.0\summa.pdb
+C:\УЧЕБА\ДЗ\urok4\summa\obj\Debug\net6.0\summa.genruntimeconfig.cache
+C:\УЧЕБА\ДЗ\urok4\summa\obj\Debug\net6.0\ref\summa.dll
